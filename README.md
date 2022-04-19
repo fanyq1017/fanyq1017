@@ -1,14 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 My ![Visitor Count](https://profile-counter.glitch.me/fanyq1017/count.svg) visitor
 
 
 # I'm FYQ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying at **SCU**
-- 🌱 I’m currently learning **C++**
 - 🤔 I love **Reading, football**
 - 📫 How to reach me: **fanyq1017@qq.com**
 
