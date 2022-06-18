@@ -1,7 +1,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/fanyq1017/count.svg) visitor
 
 
-# I'm FYQ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+#   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying at **SCU**
 - 🤔 I love **Reading, football**
